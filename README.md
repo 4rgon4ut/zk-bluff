@@ -27,3 +27,4 @@ Simplified version of the card game Bluff
   There should be a mechanism to prevent a losing player from stopping making turns and stalling the game forever.
 
 ### Addressing the challenges
+![Challenges](challenges.png)

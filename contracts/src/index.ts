@@ -1,3 +1,3 @@
-import { Game } from './Game.js';
+import { Bluff } from './Bluff.js';
 
-export { Game };
+export { Bluff };
